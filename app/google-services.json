@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "356252521525",
+    "firebase_url": "https://alibabastor-b757a.firebaseio.com",
+    "project_id": "alibabastor-b757a",
+    "storage_bucket": "alibabastor-b757a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356252521525:android:c2b2a85d32302203",
+        "android_client_info": {
+          "package_name": "com.company.alibaba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356252521525-hu8p32qpuqgnmfh8321a0lcg7rbqv8br.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtAiKS1MPhEyVbEMM_2dtAduQFi35Tn6Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

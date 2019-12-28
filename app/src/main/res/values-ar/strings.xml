@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="select_language_title">إختيار اللغة</string>
+    <string name="tab_text_1">الرئيسية</string>
+    <string name="tab_text_2">الاقسام</string>
+    <string name="products">عنصر</string>
+    <string name="first_name">الاسم الاول</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name">الاسم الاخير</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="email">البريد الالكتروني</string>
+    <string name="phone">رقم الهاتف</string>
+    <string name="username">اسم  المستخدم</string>
+    <string name="username_hint">username</string>
+    <string name="password">كلمة المرور</string>
+    <string name="confirm_password">تاكيد كلمة المرور</string>
+    <string name="country">الدولة</string>
+    <string name="city">المدينة</string>
+    <string name="gender">الجنس</string>
+    <string name="sign_up">تسجيل</string>
+    <string name="or">او عن طريق</string>
+    <string name="log_in">تسجيل الدخول</string>
+    <string name="phone_hint">+(123)4567890</string>
+    <string name="special_products">المضافة مؤخرا</string>
+    <string name="categories">الاقسام</string>
+    <string name="show_all">عرض الكل</string>
+    <string name="higher_rate_first">الاعلى تقييما اولا</string>
+    <string name="new_items_first">المضاف مؤخرا اولا</string>
+    <string name="price_low_to_high">السعر الاقل اولا</string>
+    <string name="price_high_to_low">السعر الاعلى اولا</string>
+    <string name="add_to_cart">اضف الى السلة</string>
+    <string name="add_to_wishlist">اضف الى المفضلة</string>
+    <string name="rating">التقييم :</string>
+    <string name="avaiability">متوفر :</string>
+    <string name="description">الوصف :</string>
+    <string name="in_stock">في المخزن</string>
+    <string name="sizesText">الحجم :</string>
+    <string name="colorsText"> اللون :</string>
+    <string name="reviewBtn">تقييم </string>
+    <string name="reviewTitleText">التقييم :</string>
+    <string name="qualityReviewText">الجودة :</string>
+    <string name="reviewPriceText">السعر :</string>
+    <string name="reviewValueText">القيمة :</string>
+    <string name="reviewBtnText">حفظ التقييم</string>
+
+    <string name="nav_my_cart">سلة المتشريات</string>
+    <string name="nav_my_wishlist">قائمة المفضلة</string>
+    <string name="nav_my_orders">الطلبات</string>
+    <string name="nav_set_currency">تحديد العملة</string>
+    <string name="nav_set_language">تحديد اللغة</string>
+    <string name="nav_about_us">من نحن</string>
+    <string name="nav_policy">الشروط والاحكام</string>
+    <string name="nav_contact_us">التواصل معنا</string>
+
+    <string name="beforeCheckOutPhone">رقم الهاتف</string>
+    <string name="beforeCheckOutCountry">الدولة</string>
+    <string name="beforeCheckOutCity">المدينة</string>
+    <string name="beforeCheckOutStreetName">رقم الشارع</string>
+    <string name="beforeCheckOutHouseNum">رقم المنزل</string>
+    <string name="beforeCheckOutZipCode">ص.البريد</string>
+    <string name="beforeCheckOutSaveInfoBtn">حفظ البيانات</string>
+    <string name="ConnectionErrorText">خطأ في الاتصال</string>
+    <string name="loadingMessage">جاري التحميل...</string>
+    <string name="lottery">السحوبات</string>
+
+    <string name="addingToCart">جاري الاضافة الى السلة...</string>
+    <string name="addingToWish">جاري الاضافة الى المفضلة..</string>
+    <string name="addingReview">جاري اضافة التقييم..</string>
+    <string name="AddedSuccessfully">تمت الاضافة بنجاح</string>
+    <string name="notAdded">لم تتم الاضافة</string>
+    <string name="ItemAlreadyInWishList">المنتج مضاف الى المفضلة</string>
+    <string name="youMustHaveOrders">يجب ان يكون لديك عملية شراء واحدة على الاقل لإجراء تقييم</string>
+    <string name="cartEmpty">السلة فارغة</string>
+
+    <string name="loggingIn">جاري تسجيل الدخول...</string>
+    <string name="signingIn">جاري التسجيل..</string>
+    <string name="userAlreadyRegister">معلومات المستخدم مسجلة</string>
+    <string name="userNameIsAlreadyEc">اسم المستخدم مستخدم</string>
+    <string name="emailIsAlreadyWEx">البريد الالكتروني مسجل</string>
+
+    <string name="logInToPassCart">عرض سلة المشتريات يتطلب تسجيل الدخول</string>
+    <string name="logInToPassWish">عرض قائمة المفضلة يتطلب تسجيل الدخول</string>
+    <string name="logInToPassOrders">عرض الطلبات يتطلب تسجيل الدخول</string>
+    <string name="logInToAddToCart">الاضافة الى السلة تتطلب تسجيل الدخول</string>
+    <string name="logInToAddToWish">الاضافة الى المفضلة تتطلب تسجيل الدخول</string>
+    <string name="logInToAddReview">اضافة تقييم يتطلب تسجيل الدخول</string>
+    <string name="logInToAddShowLottery">عرض السحوبات يتطلب تسجيل الدخول</string>
+
+    <string name="youMustLoginBtnLoginText">تسجيل الدخول</string>
+    <string name="youMustLoginBtnCancelText">الغاء</string>
+
+    <string name="email_username">اسم المستخدم/البريد الالكتروني</string>
+    <string name="login_password">كلمة المرور</string>
+    <string name="log_in_btn">تسجيل الدخول</string>
+    <string name="sign_up_text">تسجيل جديد</string>
+
+    <string name="log_in_sign_up">تسجيل الدخول/تسجيل جديد</string>
+
+    <string name="deleteProgressMsg">جاري الحذف..</string>
+    <string name="addingProgressMsg">جاري الاضافة..</string>
+    <string name="itIsTheMinimum">اقل كمية ممكنة</string>
+    <string name="cannotBeEmpty">يجب ادخال البيانات</string>
+
+
+
+    <string name="incorrectEmail">بريد الكتروني خاطئ</string>
+    <string name="inccorrectUsername">اسم المستخدم يجب ان يتكون فقط من احرف انجليزية وارقام</string>
+    <string name="incorrectPassword"><![CDATA[كلمة السر يجب ان تتكون فقط من احرف انجليزية وارقام واحد الرموز التالية @#&_]]></string>
+    <string name="notConfirmed">كلمة السر غير متتطابقة</string>
+    <string name="beforeCheckOutState">الولاية</string>
+    <string name="beforeCheckOutAddress">العنوان</string>
+    <string name="beforeCheckOutPostalCode">الرمز البريدي</string>
+
+
+</resources>

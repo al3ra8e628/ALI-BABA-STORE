@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E0E1E0</color>
+    <color name="colorPrimaryDark">#b1b1b1</color>
+    <color name="colorAccent">#1266B1</color>
+
+
+    <color name="welcome_background">#E0E1E0</color>
+    <color name="activity_background">#F0F0F0</color>
+
+    <color name="action_bar_background">#E0E1E0</color>
+
+    <color name="btn_background_color">#1266B1</color>
+    <color name="btn_text_color">#F0F0F0</color>
+
+
+    <color name="tabs_background_color">#FFFFFF</color>
+    <color name="tabs_text_color">#1266B1</color>
+    <color name="tabs_selected_text_color">#1266B1</color>
+    <color name="tabs_indicator_color">#1266B1</color>
+
+    <color name="text_color">#373435</color>
+    <color name="price_text_color">#F8484A</color>
+
+    <color name="action_bar_title_text_color">#1266B1</color>
+
+    <color name="separator_color">#7ccfcfcf</color>
+
+
+    <color name="selected_item_color_bg">#1266B1</color>
+    <color name="selected_item_size_bg">#1266B1</color>
+
+
+
+    <color name="superCategoryBackground">#1266B1</color>
+    <color name="superCategoryTextColor">#fff</color>
+    <color name="selectedSuperCategoryTextColor">#1266B1</color>
+
+
+    <color name="nav_bar_bg_color">#F0F0F0</color>
+    <color name="nav_bar_text_color">#1266B1</color>
+    <color name="nav_bar_icon_color">#1266B1</color>
+    <color name="nav_bar_header_bg_color">#198bf1</color>
+    <color name="nav_bar_header_text_color">#F0F0F0</color>
+
+
+    <color name="ads_offer_bg_color">#FDD922</color>
+    <color name="ads_image_bg_color">#e2e2e2</color>
+
+<!--
+    <color name="nav_bar_bg_color">#1266B1</color>
+    <color name="nav_bar_text_color">#fff</color>
+    <color name="nav_bar_icon_color">#fff</color>
+-->
+
+    <color name="settingIcoColor">#1266B1</color>
+
+
+    <color name="loginActivity_bg">#4074a3</color>
+    <color name="login_signUp_textColor">#FFFF</color>
+    <color name="hintTextColor">#a9a9a9</color>
+
+
+</resources>

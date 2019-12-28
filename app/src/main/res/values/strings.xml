@@ -1,0 +1,144 @@
+<resources>
+    <string name="app_name" translatable="false">AliBaBaStor</string>
+    <string name="select_language_title">Select Language</string>
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Categories</string>
+
+
+    <string name="products">products</string>
+    <string name="title_activity_item" translatable="false">item name</string>
+    <string name="first_name">First Name</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="phone_hint">+(123)4567890</string>
+    <string name="username">Username</string>
+    <string name="username_hint">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Cfm-Password</string>
+    <string name="country">Country</string>
+    <string name="city">City</string>
+    <string name="gender">Gender</string>
+    <string name="sign_up">sign up</string>
+    <string name="or">or</string>
+    <string name="log_in">log in</string>
+
+
+    <string name="facebook_app_id" translatable="false">387034285148224</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb387034285148224</string>
+    <string name="client_id_google_plus" translatable="false">961448049976-h1knshjoqlka1cdu6eg3rh9gaqh2vcbh.apps.googleusercontent.com</string>
+    <string name="special_products">Special Products</string>
+    <string name="categories">Categories</string>
+    <string name="show_all">show all</string>
+    <string name="higher_rate_first">higher Rate First</string>
+    <string name="new_items_first">New Items First</string>
+    <string name="price_low_to_high">Price Low To High</string>
+    <string name="price_high_to_low">Price High To Low</string>
+    <string name="add_to_cart">add to cart</string>
+    <string name="add_to_wishlist">add to wishlist</string>
+    <string name="rating">Rating :</string>
+    <string name="avaiability">Avaiability :</string>
+    <string name="description">Description :</string>
+
+
+
+
+
+    <string name="in_stock">In Stock</string>
+    <string name="reviewBtn">review</string>
+    <string name="colorsText">Color :</string>
+    <string name="sizesText">Size :</string>
+    <string name="reviewTitleText">Review :</string>
+    <string name="qualityReviewText">Quality :</string>
+    <string name="reviewPriceText">Price :</string>
+    <string name="reviewValueText">Value :</string>
+    <string name="reviewBtnText">review</string>
+
+
+    <string name="nav_my_cart">My cart</string>
+    <string name="nav_my_wishlist">My Wishlist</string>
+    <string name="nav_my_orders">My Orders</string>
+    <string name="nav_set_currency">Set Currency</string>
+    <string name="nav_set_language">Set Language</string>
+    <string name="nav_about_us">About Us</string>
+    <string name="nav_policy">Policy</string>
+    <string name="nav_contact_us">Contact Us</string>
+
+    <string name="beforeCheckOutPhone">Phone</string>
+    <string name="beforeCheckOutCountry">Country</string>
+    <string name="beforeCheckOutCity">City</string>
+    <string name="beforeCheckOutStreetName">Street Name</string>
+    <string name="beforeCheckOutHouseNum">House Num</string>
+    <string name="beforeCheckOutZipCode">Zip-Code</string>
+    <string name="beforeCheckOutSaveInfoBtn">save info</string>
+
+
+
+
+    <string name="ConnectionErrorText">Connection error</string>
+    <string name="loadingMessage">loading...</string>
+    <string name="addingToCart">Adding To Cart...</string>
+    <string name="addingToWish">Adding To Wishlist...</string>
+    <string name="addingReview">Adding Review...</string>
+    <string name="AddedSuccessfully">Added Successfully</string>
+    <string name="notAdded">item not added</string>
+    <string name="ItemAlreadyInWishList">item already in wishlist</string>
+    <string name="youMustHaveOrders">you must have at least one order to make a review</string>
+    <string name="cartEmpty">cart is empty</string>
+
+    <string name="loggingIn">logging in...</string>
+    <string name="signingIn">signing up...</string>
+
+    <string name="userAlreadyRegister">user is already registered</string>
+    <string name="userNameIsAlreadyEc">username is already exist</string>
+    <string name="emailIsAlreadyWEx">email is already exist</string>
+
+
+    <string name="logInToPassCart">you must be logged in to show  your cart</string>
+    <string name="logInToPassWish">you must be logged in to show  your wishlist</string>
+    <string name="logInToPassOrders">you must be logged in to show  your orders</string>
+    <string name="logInToAddToCart">you must be logged in before add  an item to cart</string>
+    <string name="logInToAddToWish">you must be logged in before add  an item to wishlist</string>
+    <string name="logInToAddReview">you must be logged in to make  a review</string>
+
+    <string name="logInToAddShowLottery">you must be logged in to show lotteries</string>
+
+    <string name="youMustLoginBtnLoginText">LOG IN</string>
+    <string name="youMustLoginBtnCancelText">CANCEL</string>
+
+
+    <string name="email_username">Email/Username</string>
+    <string name="login_password">Password</string>
+    <string name="log_in_btn">log in</string>
+    <string name="sign_up_text">Sign Up</string>
+
+    <string name="log_in_sign_up">log in/sign up</string>
+
+    <string name="deleteProgressMsg">deleting..</string>
+    <string name="addingProgressMsg">adding...</string>
+    <string name="itIsTheMinimum">it\'s the minimum</string>
+    <string name="savingInfoMsg" translatable="false">saving info..</string>
+    <string name="notSaved" translatable="false">information not saved</string>
+
+    <string name="cannotBeEmpty">cannot be Empty</string>
+    <string name="incorrectEmail">incorrect email</string>
+    <string name="inccorrectUsername">username can contain only alphabetical and digits</string>
+    <string name="incorrectPassword"><![CDATA[password can contain only alphabetical and digits and @#&_]]></string>
+    <string name="notConfirmed">not confirmed</string>
+    <string name="beforeCheckOutState">State</string>
+    <string name="beforeCheckOutAddress">Address</string>
+    <string name="beforeCheckOutPostalCode">Postal Code</string>
+    <string name="lottery">lottery</string>
+
+
+    <array name="genders" translatable="false">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </array>
+
+
+
+</resources>

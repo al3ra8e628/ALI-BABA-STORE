@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/myCart"
+        android:icon="@drawable/ic_cart"
+        android:title="@string/nav_my_cart" />
+
+
+    <item
+        android:id="@+id/myWishlist"
+        android:icon="@drawable/ic_my_wishlist_item"
+        android:title="@string/nav_my_wishlist" />
+
+
+    <item
+        android:id="@+id/myOrders"
+        android:icon="@drawable/ic_my_orders"
+        android:title="@string/nav_my_orders" />
+
+
+    <item
+        android:id="@+id/lottery"
+        android:icon="@drawable/lottery_ic"
+        android:title="@string/lottery" />
+
+    <item
+        android:id="@+id/setCurrency"
+        android:icon="@drawable/ic_currency"
+        android:title="@string/nav_set_currency" />
+
+
+    <item
+        android:id="@+id/setLanguage"
+        android:icon="@drawable/ic_set_language"
+        android:title="@string/nav_set_language" />
+
+    <item
+        android:id="@+id/policy"
+        android:icon="@drawable/plicies"
+        android:title="@string/nav_policy" />
+
+    <item
+        android:id="@+id/contactUs"
+        android:icon="@drawable/ic_contact_us"
+        android:title="@string/nav_contact_us" />
+
+    <item
+        android:id="@+id/aboutUs"
+        android:icon="@drawable/ic_about_us"
+        android:title="@string/nav_about_us" />
+
+</menu>

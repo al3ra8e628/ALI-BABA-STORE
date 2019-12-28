@@ -1,0 +1,71 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        config {
+            keyAlias 'alibabastore'
+            keyPassword 'alibabastore'
+            storeFile file('C:/Users/al3ra8e/Documents/hamza/ali baba project/keyStore/aliBabaStoreKey.jks')
+            storePassword 'alibabastore'
+        }
+    }
+    compileSdkVersion 25
+    defaultConfig {
+        applicationId "com.company.alibaba"
+        minSdkVersion 19
+        targetSdkVersion 25
+        multiDexEnabled true
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    buildToolsVersion '26.0.2'
+    configurations {
+        all*.exclude group: 'com.squareup.okhttp3', module: 'okhttp'
+    }
+}
+
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation 'com.android.support:appcompat-v7:23.2.1'
+    implementation 'com.android.support.constraint:constraint-layout:1.0.2'
+    implementation 'com.android.support:design:25.4.0'
+    testImplementation 'junit:junit:4.12'
+    implementation 'com.squareup.picasso:picasso:2.71828'
+    implementation 'de.hdodenhof:circleimageview:2.2.0'
+    implementation 'com.ogaclejapan.smarttablayout:library:1.6.1@aar'
+    implementation 'com.ogaclejapan.smarttablayout:utils-v4:1.6.1@aar'
+    implementation 'com.github.aakira:expandable-layout:1.6.0@aar'
+    implementation 'com.google.android.gms:play-services-auth:9.2.0'
+    implementation 'com.google.android.gms:play-services-plus:9.2.0'
+    implementation 'com.facebook.android:facebook-android-sdk:4.18.0'
+    implementation 'com.google.firebase:firebase-core:9.2.0'
+    // this line must be included to integrate with Firebase
+    implementation 'com.google.firebase:firebase-messaging:9.2.0'
+    implementation 'com.squareup.picasso:picasso:2.5.2'
+    compile 'com.mcxiaoke.volley:library:1.0.19'
+    implementation 'io.card:android-sdk:5.3.0'
+    implementation project(':paytabs-android-SDK-v2.5')
+    implementation(project(':paytabs-android-SDK-v2.5')) { exclude group: 'com.google.android.gms' }
+}
+
+
+apply plugin: 'com.google.gms.google-services'
+
+
+
+
+
+
+
